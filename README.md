@@ -1,5 +1,15 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the Organised Structures.
 
+<h3>5 Questions Data Science can answer:</h3>
+<ul>
+  <li>
+    Is this A or B?  - Classfication Algorithms </li>
+<li>Is this weird? -Anamoloy Detection Algorithms </li>
+<li>How much or How many? -Regression Algorithms (Numeric Predictions) </li>
+<li> How is this Organized? -Clustering Algorithms </li>
+<li> What should I do next? -Reinforcement Learnign Algorithms </li>
+</ul>
+
 <h2>Contents</h2>
 <ul>
   <li>
